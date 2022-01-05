@@ -116,3 +116,4 @@ SOFTWARE.
 ```
 
 # flutter-crypto-app
+## settings_ui: ^1.0.0でエラーが出るため修正する必要がある
